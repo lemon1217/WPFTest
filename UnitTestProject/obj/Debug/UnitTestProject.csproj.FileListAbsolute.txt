@@ -1,0 +1,7 @@
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\bin\Debug\WpfTest.exe
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\bin\Debug\WpfTest.pdb
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.pdb
