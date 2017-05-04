@@ -14,5 +14,12 @@ namespace UnitTestProject
             Employee e = new Employee();
             Assert.AreEqual(e.Add(1, 2), 3);
         }
+
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Employee e = new Employee();
+            Assert.AreEqual(e.Add(2, 2), 2);
+        }
     }
 }
