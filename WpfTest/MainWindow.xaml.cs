@@ -23,6 +23,8 @@ namespace WpfTest
         public MainWindow()
         {
             InitializeComponent();
+
+            System.Console.WriteLine("test");
         }
     }
 }
