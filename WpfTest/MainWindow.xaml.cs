@@ -25,7 +25,6 @@ namespace WpfTest
             InitializeComponent();
 
             System.Console.WriteLine("test");
-
         }
     }
 }
