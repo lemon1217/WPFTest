@@ -11,3 +11,5 @@ C:\Users\mflog\Desktop\tool\WpfTest\WpfTest\obj\Debug\WpfTest.Properties.Resourc
 C:\Users\mflog\Desktop\tool\WpfTest\WpfTest\obj\Debug\WpfTest.csproj.GenerateResource.Cache
 C:\Users\mflog\Desktop\tool\WpfTest\WpfTest\obj\Debug\WpfTest.exe
 C:\Users\mflog\Desktop\tool\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
+C:\Users\mflog\Desktop\tool\WPFTest\WpfTest\bin\Debug\WpfTestDll.dll
+C:\Users\mflog\Desktop\tool\WPFTest\WpfTest\bin\Debug\WpfTestDll.pdb

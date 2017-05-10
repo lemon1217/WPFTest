@@ -26,6 +26,8 @@ namespace WpfTest
 
             System.Console.WriteLine("test");
 
+            WpfTestDll.Employee e = new WpfTestDll.Employee();
+
         }
     }
 }

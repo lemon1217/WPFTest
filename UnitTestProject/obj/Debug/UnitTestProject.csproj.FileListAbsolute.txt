@@ -5,3 +5,7 @@ C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\bin\Debug\WpfTest.pdb
 C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
 C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.dll
 C:\Users\mflog\Desktop\tool\WpfTest\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\mflog\Desktop\tool\WPFTest\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\mflog\Desktop\tool\WPFTest\UnitTestProject\bin\Debug\WpfTestDll.dll
+C:\Users\mflog\Desktop\tool\WPFTest\UnitTestProject\bin\Debug\WpfTestDll.pdb
+C:\Users\mflog\Desktop\tool\WPFTest\UnitTestProject\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
